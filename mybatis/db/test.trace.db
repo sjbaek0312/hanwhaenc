@@ -1,0 +1,3 @@
+07-07 01:34:19 jdbc[2]: exception
+org.h2.jdbc.JdbcSQLException: Table "MEMBER" not found; SQL statement:
+insert into member(email, name) values(?, ?) [42102-173]
